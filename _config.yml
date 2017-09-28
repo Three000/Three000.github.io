@@ -78,5 +78,5 @@ theme: snippet
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://Three000:niceboy1Q@github.com/Three000/Three000.github.io.git
+  repo: https://@github.com/Three000/Three000.github.io.git
   branch: master
